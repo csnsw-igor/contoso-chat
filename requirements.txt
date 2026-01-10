@@ -4,3 +4,4 @@ azure-cosmos
 azure-ai-ml
 azure-ai-resources
 azure-search-documents==11.4.0
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
