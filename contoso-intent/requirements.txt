@@ -3,3 +3,4 @@ promptflow-tools
 azure-cosmos
 azure-search-documents==11.4.0
 azure-ai-ml
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
